@@ -1,8 +1,4 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# ToDos App - ReactJS  
+In this web application user can add a task by writing in input and clicking on add button or just by clicking on enter key in your keyboard.  
+User can mark a task completed by clicking on it.  
+There is a reset button in top right corner , on clicking it reset the app in its original state.  
