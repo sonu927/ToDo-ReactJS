@@ -46,7 +46,7 @@ function App() {
           <div>
             <h1 className="text-3xl ">
               <LuListTodo className="inline mr-2 mb-1" />
-              TODO App
+              ToDo App
             </h1>
           </div>
 
